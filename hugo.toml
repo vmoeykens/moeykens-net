@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = '$CF_PAGES_URL'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'moeykens.net'
 theme = 'quint'
