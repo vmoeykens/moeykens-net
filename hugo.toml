@@ -1,4 +1,0 @@
-baseURL = '$CF_PAGES_URL'
-languageCode = 'en-us'
-title = 'moeykens.net'
-theme = 'quint'
